@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-graphql",
+  "private": true,
+  "description": "A simple helloworld starter with graphql module.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustapha Benmbarek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "graphql": "^14.5.8"
+  }
+}
